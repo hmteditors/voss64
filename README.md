@@ -1,4 +1,4 @@
-voss64
-======
+#voss64
 
-Codex model for Leiden VGF 64
+Workspace for cataloging photography of Leiden manuscripts, and developing a codex model for Leiden VGF 64.
+
